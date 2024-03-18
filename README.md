@@ -1,15 +1,20 @@
 1. Клонируйте репозиторий
+   ```
+   git clone 
+   ```
 
-2. Смените рабочую директорию 
+3. Смените рабочую директорию 
 
-3. Запустите Composer и установите все зависимости
+4. Запустите Composer и установите все зависимости
 
-4. Скопируйте файл .
+5. Скопируйте файл .
    cp .env.example .env
 
-5. Сгенерируйте уникальный ключ приложения
+6. Сгенерируйте уникальный ключ приложения
+
+7. Запустите Сервер
 
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The code open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
