@@ -1,6 +1,6 @@
 1. Клонируйте репозиторий
    ```
-   [git clone ](https://github.com/Dmit595987/app_test_task_18_03_2024.git)
+   git clone https://github.com/Dmit595987/app_test_task_18_03_2024.git
    ```
 
 3. Смените рабочую директорию 
