@@ -36,10 +36,17 @@
    
 ```
 {
-    'url': ''https://yandex.ru/maps/?example=222'
+    "url": "https://yandex.ru/maps/?example=222"
 }
 ```
-
+Ответ будет ввиде JSON
+```
+{
+    "url": "https://yandex.ru/dfddfD"
+}
+```
+GET запрос на "https://yandex.ru/dfddfD"
+Сделает переадресацию на изначальный URL
 
 ## License
 
